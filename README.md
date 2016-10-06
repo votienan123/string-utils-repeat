@@ -7,7 +7,9 @@
 Repeating a string (X) times
 
 #Installation
+```
 $ npm install string-utils-repeat
+```
 
 #How to use
 ```javascript
