@@ -10,11 +10,12 @@ Repeating a string (X) times
 $ npm install string-utils-repeat
 
 #How to use
+```javascript
 var stringUtil = require('string-utils-repeat');
 stringUtil.repeat("yourString", numberOfTimes, function(error, result) {
 	// your code
 });
-
+```
 #Run test
 npm test
 
